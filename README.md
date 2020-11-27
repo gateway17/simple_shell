@@ -1,4 +1,4 @@
-### In this REPO we make our own mini-version of a linux SHELL as part of the final first quarter project at Holberton School.  :muscle:
+### Mini-shell
 #
 ## -Installation:
 Git clone https://github.com/gateway17/simple_shell.git
