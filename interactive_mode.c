@@ -11,7 +11,7 @@
 void interactive_mode(void)
 {
 	char **token_path = 0, **token_line = NULL;
-	char *my_propmt = "prompt> ", *texto, *linea = NULL;
+	char *my_propmt = "#U# ", *texto, *linea = NULL;
 	size_t  largo_linea = 0;
 	const char *delim = " ";
 	int num_path;
